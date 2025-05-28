@@ -1,4 +1,3 @@
-````markdown
 # 🌤️ Weather App
 
 A modern, responsive weather dashboard built with **React** and **Tailwind CSS**, featuring **real-time weather**, **hourly and 5-day forecasts**, and **location-based search**. The UI includes smooth animations, glassmorphism, and neumorphism effects for a sleek user experience.
@@ -38,7 +37,7 @@ A modern, responsive weather dashboard built with **React** and **Tailwind CSS**
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
-````
+
 
 2. **Install dependencies**
 
@@ -125,14 +124,8 @@ src/
 
 MIT License. Feel free to use and modify.
 
----
 
 ## 🙋‍♂️ Author
 
 Made with ❤️ by \[Vivek Yadav]
 
----
-
-```
-
-```
