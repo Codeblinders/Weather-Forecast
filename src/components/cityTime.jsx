@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Clock from "./Clock";
+import Clock from "./CLock";
 import ForeCast from "./ForeCast";
 import axios from "axios";
 import { toast } from "react-toastify";
